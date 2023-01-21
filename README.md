@@ -9,7 +9,7 @@ If it is helpful for you, please cite the following references.
   
       journal={International Journal of Applied Earth Observation and Geoinformation}, 
   
-      title={ Urban informal settlements classification via a transformer-based spatial-temporal fusion network using multimodal remote sensing and time-series human activity data}, 
+      title={Urban informal settlements classification via a transformer-based spatial-temporal fusion network using multimodal remote sensing and time-series human activity data}, 
   
       year={2022},
   
