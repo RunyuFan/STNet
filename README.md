@@ -1,4 +1,3 @@
-# STNet
 This repository is for our JAG paper: "Urban informal settlements classification via a transformer-based spatial-temporal fusion network using multimodal remote sensing and time-series human activity data". Please refer to https://www.sciencedirect.com/science/article/pii/S1569843222000334 .
 
 If it is helpful for you, please cite the following references.
