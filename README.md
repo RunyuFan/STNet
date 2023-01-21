@@ -8,9 +8,9 @@ If it is helpful for you, please cite the following references.
 
       author={Runyu Fan and Jun Li and Weijing Song and Wei Han and Jining Yan and Lizhe Wang},
   
-      journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+      journal={International Journal of Applied Earth Observation and Geoinformation}, 
   
-      title={International Journal of Applied Earth Observation and Geoinformation}, 
+      title={ Urban informal settlements classification via a transformer-based spatial-temporal fusion network using multimodal remote sensing and time-series human activity data}, 
   
       year={2022},
   
